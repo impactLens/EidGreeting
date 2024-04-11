@@ -17,20 +17,16 @@ Eid Mubarak from Rashadul Islam ross
   ```
   Brief:
   ```
-<details>
             <summary>[ B1 ] Let’s Introduce Me</summary>
 
    * B.Sc. in Computer Science, CA
    * B.Sc. in Computer Engineering, BD
 
-<details>
             <summary>[ B2 ] Specialization</summary>
 
    + Enterprise Software Architect & Full Stack Software DevOP
    + Software Engineering
 
-</details>
- </details>
 </details>
 
 <details>
