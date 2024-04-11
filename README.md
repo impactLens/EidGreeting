@@ -21,12 +21,12 @@ Eid Mubarak from Rashadul Islam ross!
   ```
   Brief:
   ```
-            <summary>[ B1 ] Let’s Introduce Me</summary>
+           <details> <summary>[ B1 ] Let’s Introduce Me</summary>
 
    * B.Sc. in Computer Science, System & Software Computation System, Canada
    * B.Sc. in Computer Engineering, Software Engineering, Bangladesh
 
-            <summary>[ B2 ] Engagement</summary>
+           <details> <summary>[ B2 ] Engagement</summary>
 
    + Full Stack DevOP ( Software )
    + Enterprise Design and Business Development
@@ -41,7 +41,7 @@ Eid Mubarak from Rashadul Islam ross!
    + Counselling SaaS, IaaS, PaaS
    + Community & Policy: Exploratory & explanatory speaker
 
-    <summary>[ B3 ] 
+   <details> <summary>[ B3 ] 
         Network contributions</summary>
 
   ```
@@ -64,6 +64,9 @@ Eid Mubarak from Rashadul Islam ross!
      + STEM COMMUNITY
      + IRON RING COMMUNITY
      + many more
+</details>
+</details>
+</details>
 </details>
 
 <details>
