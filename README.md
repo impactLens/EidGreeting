@@ -60,7 +60,7 @@ Eid Mubarak from Rashadul Islam ross
   How am i looking now, what's new?
   ```
 
-   ![Pixels](img_2_1687960547281.jpg)
+   ![Pixels](IMG_20240404_095225311.jpg)
 
    </details>
 
