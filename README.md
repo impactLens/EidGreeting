@@ -25,8 +25,9 @@ Eid Mubarak from Rashadul Islam ross!
 
    * B.Sc. in Computer Science, System & Software Computation System, Canada
    * B.Sc. in Computer Engineering, Software Engineering, Bangladesh
+</details>
 
-           <details> <summary>[ B2 ] Engagement</summary>
+ <details> <summary>[ B2 ] Engagement</summary>
 
    + Full Stack DevOP ( Software )
    + Enterprise Design and Business Development
@@ -40,6 +41,7 @@ Eid Mubarak from Rashadul Islam ross!
    + Coach & Mentor: Industry 4.0 Leaders
    + Counselling SaaS, IaaS, PaaS
    + Community & Policy: Exploratory & explanatory speaker
+</details>
 
    <details> <summary>[ B3 ] 
         Network contributions</summary>
@@ -64,9 +66,6 @@ Eid Mubarak from Rashadul Islam ross!
      + STEM COMMUNITY
      + IRON RING COMMUNITY
      + many more
-</details>
-</details>
-</details>
 </details>
 
 <details>
