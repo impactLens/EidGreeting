@@ -30,15 +30,40 @@ Eid Mubarak from Rashadul Islam ross!
 
    + Full Stack DevOP ( Software )
    + Enterprise Design and Business Development
+   + Enterprise Ready Software And System Architect
    + Liaison & Fundraiser for charity
    + Fedora: Open Source Community Ambassador
    + Data Analyst & Interpreter: Artificial Intelligence and Machine Learning
    + Algorithm Design and Development
    + Op-Ed: Technical Documentation, System Administration, Newsletter, Journal
-   + Researcher & Author: The Art of Artificial Intelligence & Computing System
+   + Author: The Art of Artificial Intelligence & Computing System
    + Coach & Mentor: Industry 4.0 Leaders
+   + Counselling SaaS, IaaS, PaaS
+   + Community & Policy: Exploratory & explanatory speaker
 
- 
+    <summary>[ B3 ] 
+        Network contributions</summary>
+
+  ```
+  Connected network and affiliates:
+  ```
+     + IEEE
+     + AIESEC
+     + BSA
+     + CFES
+     + ENCS
+     + RZS
+     + CANT
+     + IUB
+     + ACADIA
+     + CONCORDIA
+     + LEGAL OFFICE 
+     + PR, ADVERTISING AND MEDIA HOUSE
+     + CHARTERED FIRMS
+     + SCHOOLS
+     + STEM COMMUNITY
+     + IRON RING COMMUNITY
+     + many more
 </details>
 
 <details>
