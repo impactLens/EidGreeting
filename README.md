@@ -21,7 +21,7 @@ Eid Mubarak from Rashadul Islam ross!
   ```
   Brief:
   ```
-           <details> <summary>[ B1 ] Let’s Introduce Me</summary>
+ <details> <summary>[ B1 ] Let’s Introduce Me</summary>
 
    * B.Sc. in Computer Science, System & Software Computation System, Canada
    * B.Sc. in Computer Engineering, Software Engineering, Bangladesh
